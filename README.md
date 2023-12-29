@@ -40,7 +40,7 @@
   </tr>
   <tr>
   <td>02</td> 
-  <td><a href = "https://github.com/joe-seth/ML-Heart-Disease-Prediction/blob/main/Heart%20Disease%20Prediction.ipynb"></a></td>
+  <td><a href = "https://github.com/joe-seth/ML-Heart-Disease-Prediction/blob/main/Heart%20Disease%20Prediction.ipynb"></a>Machine Learning Heart Disease Prediction</td>
   <td>This involves four machine learning algorithms which will result in performance metrics of the model.
     Classification algorithms based on supervised learning which is a type of machine learning can make diagnoses of cardiovascular diseases easy. 
     Algorithms like K-Nearest Neighbor (KNN), Random Forest are used to classify people who have a heart disease from people who do not.</td>
